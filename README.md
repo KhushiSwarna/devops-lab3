@@ -1,8 +1,8 @@
 # Lab 3 | Monitoring, Logging & DevSecOps
 
 **DevOps and Automation Lab**  
-**Student:** Ansh Kapoor | **GitHub:** `axdy02`  
-**Repository:** [axdy02/devops-lab3](https://github.com/axdy02/devops-lab3)
+**Student:** Khushi Swarna | **GitHub:** `KhushiSwarna`  
+**Repository:** [KhushiSwarna/devops-lab3](https://github.com/KhushiSwarna/devops-lab3)
 
 An evidence-backed record of infrastructure configuration, local provisioning, monitoring, centralized logging, pipeline security scanning, feature flags, load testing and browser automation.
 
